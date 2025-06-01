@@ -1,3 +1,8 @@
 # Hello Git
 ## Today i am learning Git
-## 202506012
+## Mục tiêu của dự án
+- Học Git từ cơ bản đến nâng cao
+- Làm chủ dòng lệnh Git
+
+### Ghi chú
+Mỗi ngày học một ít, Git sẽ dễ dàng hơn nhiều!
