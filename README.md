@@ -6,3 +6,5 @@
 
 ### Ghi chú
 Mỗi ngày học một ít, Git sẽ dễ dàng hơn nhiều!
+Đây là dòng sai chính tả! → Đây là dòng sửa chính tả!
+
